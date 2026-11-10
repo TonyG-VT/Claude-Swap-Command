@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleName</key><string>Claude Swap Command</string>
+<key>CFBundleDisplayName</key><string>Claude Swap Command</string>
+<key>CFBundleIdentifier</key><string>com.tonyg-vt.claude-swap-command</string>
+<key>CFBundleExecutable</key><string>claude-swap-command</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleShortVersionString</key><string>0.4.1</string>
+<key>CFBundleVersion</key><string>17</string>
+<key>LSUIElement</key><true/>
+<key>LSMinimumSystemVersion</key><string>13.0</string>
+<key>NSAppleEventsUsageDescription</key><string>Claude Swap Command asks Claude to quit before it changes accounts.</string>
+</dict></plist>

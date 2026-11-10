@@ -1,0 +1,14 @@
+# what a build produces
+/dist/
+/Claude-Swap-Command
+/claude-swap-command
+
+# never commit a sign-in, a cookie file or a log
+/.claude-swap-command/
+*.credential*
+*.cookies
+*.log
+.env
+.env.*
+
+.DS_Store

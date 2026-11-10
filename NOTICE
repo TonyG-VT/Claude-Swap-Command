@@ -1,0 +1,13 @@
+Claude Account Switcher
+Copyright 2026 SnlperStripes
+https://github.com/SnlperStripes/claude-account-switcher
+
+This product includes software developed by SnlperStripes.
+
+Claude Swap Command
+Adaptation by Tony Guillaro, 2026, for the Claude desktop app on macOS.
+Changed from the original: how a switch is made and undone, backups, how
+conversations follow a switch, the usage display, the menu, the tests and the
+macOS packaging. The original's Windows code is not part of this adaptation.
+Based on claude-account-switcher v0.3.4, commit
+49fbb3c6021f3417b1777a8a52b104b47ea2968d.
