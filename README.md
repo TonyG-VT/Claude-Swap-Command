@@ -179,8 +179,3 @@ go vet ./... && go test -race ./...
 - [CONTRIBUTING.md](CONTRIBUTING.md) lists every file and the rules for
   changing this code; [SECURITY.md](SECURITY.md) says what the helper does
   with sign-ins.
-
-## Credits and licence
-
-Based on [claude-account-switcher](https://github.com/SnlperStripes/claude-account-switcher)
-by SnlperStripes. See [NOTICE](NOTICE) and [LICENSE](LICENSE).
