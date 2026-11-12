@@ -11,20 +11,6 @@ used on one Mac only (Apple Silicon, macOS 27, three Max accounts).
 **New here? Start with [packaging/INSTALL.md](packaging/INSTALL.md).** It
 takes you from nothing to your first switch.
 
-## Before you use or share this
-
-- **It is not an Anthropic product, and Anthropic's rules may not allow it.**
-  The helper keeps copies of Claude's sign-in on your Mac and uses your
-  sign-in to ask Anthropic's service for your account's name, plan and usage.
-  Anthropic's published rules say that Claude sign-ins are meant for
-  Anthropic's own apps and that developers of other tools may not collect or
-  store them, and that Anthropic can enforce this, and suspend accounts that
-  break its terms, without notice or refund. Read them before you decide:
-  [Consumer Terms](https://www.anthropic.com/legal/consumer-terms) and
-  [Claude Code: legal and compliance](https://code.claude.com/docs/en/legal-and-compliance).
-  Everyone who uses the helper takes that risk for their own accounts.
-- **Each person uses only their own accounts**, on their own Mac. Sign-ins
-  and the helper's data folder are never shared.
 
 ## What you see
 
